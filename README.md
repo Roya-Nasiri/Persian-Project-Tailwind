@@ -9,7 +9,7 @@ A responsive landing page built with **HTML + Tailwind CSS**.
 ---
 
 ## 📸 Preview
-![Project Preview](docs/preview.gif)
+![Project Preview](docs/preview.jpg)
 
 ---
 
